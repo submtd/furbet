@@ -10,9 +10,21 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "axios": "^0.21",
+        "@popperjs/core": "^2.11.5",
+        "@walletconnect/web3-provider": "^1.7.8",
+        "abi-decoder": "^2.4.0",
+        "axios": "^0.21.4",
+        "bootstrap": "^5.2.0",
+        "bootstrap-icons": "^1.9.1",
+        "chart.js": "^3.8.2",
+        "js-cookies": "^1.0.4",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.4.14",
+        "query-string": "^7.1.1",
+        "sass": "^1.54.0",
+        "vue": "^3.2.37",
+        "walletlink": "^2.5.0",
+        "web3": "^1.7.4"
     }
 }
